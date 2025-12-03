@@ -3,7 +3,6 @@ file1 = open("./advent-of-code-day-3/input.txt", "r")
 inp = file1.read()
 inpArr = inp.split("\n")
 file1.close()
-finalArr = []
 
 
 total_output_joltage = 0

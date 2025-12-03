@@ -6,7 +6,6 @@ file1 = open("./advent-of-code-day-2/input.txt", "r")
 inp = file1.read()
 inpArr = inp.split(",")
 file1.close()
-finalArr = []
 
 
 sum = 0
