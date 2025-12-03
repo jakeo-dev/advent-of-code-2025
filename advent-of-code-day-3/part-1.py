@@ -1,6 +1,3 @@
-import math
-
-
 file1 = open("./advent-of-code-day-3/input.txt", "r")
 
 inp = file1.read()
