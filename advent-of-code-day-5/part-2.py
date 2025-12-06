@@ -1,3 +1,7 @@
+"""
+UNFINISHED, DOES NOT WORK
+"""
+
 file1 = open("./advent-of-code-day-5/input.txt", "r")
 
 inp = file1.read()
